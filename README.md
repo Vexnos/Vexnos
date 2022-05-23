@@ -2,6 +2,6 @@
 
 I'm *Vexnos*, a programmer and 3D artist
 
-I mainly experiment with Python, HTML, Javascript and CSS
+This readme is absolutely poggers, and so are my projects (except the projects)
 
-Otherwise I'm messing around on Blender
+Linux is poggers
